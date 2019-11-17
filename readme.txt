@@ -1,8 +1,8 @@
-This is a module written in Python. It uses the Beautiful Soup Library to scrape information from the website.
+This is a module written in Python. It uses the Beautiful Soup Library to scrape information from the wegotickets website.
 It uses the the Request library to get the website data. 
 It uses the json library to convert the data into a json.
  
-Instruction Copy the files into the same Directory.
+Instructions Copy the files into the same Directory.
 run Python 
 From the Python terminal run the following commands:
 1) pip install -r requirements.txt( do this to install libraries)
